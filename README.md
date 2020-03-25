@@ -1,3 +1,7 @@
+> :fork_and_knife: **WTF? (WHY THE FORK)**  
+> - [mooz/percol](https://github.com/mooz/percol) has no releases published since 2015.
+> - add `--select-ignore` option 
+
 # percol
 
                                     __
